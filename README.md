@@ -14,15 +14,19 @@ Each exercise corresponds to a different Machine Learning method.
 - [2nd exercise](https://helios.ntua.gr/mod/assign/view.php?id=13082): Unsupervised learning
 - [3rd exercise](https://helios.ntua.gr/mod/assign/view.php?id=15122): Deep learning
 
-
+**Datasets:**
+- [Statlog (Landsat Satellite) Data Set](http://archive.ics.uci.edu/ml/datasets/Statlog+(Landsat+Satellite))
+- [Company Bankruptcy Prediction](https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction)
+- [CMU Movie Summary Corpus](https://drive.google.com/uc?export=download&id=1-tN5rC1QCgwqL67cvIXdMbtd-Xf9Xqow)
+- [Flickr30k](https://paperswithcode.com/dataset/flickr30k)
 
 
 ## 👔**Team Members**
 
-| Name - GitHub                                     | Email                   |
-|----------------------------------------------------------------|-------------------------|
-| [Stylianos Kandylakis](https://github.com/stylkand/) |  <a href = "mailto:stelkcand@gmail.com" target="_blank"><img alt="gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">   |
-| [Kitsos Orfanopoulos](https://github.com/kitsorfan)               | <a href = "mailto:kitsorfan@protonmail.com" target="_blank"><img alt="protonmail" src = "https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" ></a>|
+| Name - GitHub                                     | Email                   |  Kaggle   |
+|----------------------------------------------------------------|-------------------------|-----------------------|
+| [Stylianos Kandylakis](https://github.com/stylkand/) |  <a href = "mailto:stelkcand@gmail.com" target="_blank"><img alt="gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">   | [link](https://www.kaggle.com/stelkand) |
+| [Kitsos Orfanopoulos](https://github.com/kitsorfan)               | <a href = "mailto:kitsorfan@protonmail.com" target="_blank"><img alt="protonmail" src = "https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" ></a>| [link](https://www.kaggle.com/christosorfanopoulos) |
 
 
 Project's assignement and report are written in greek.
