@@ -29,7 +29,7 @@ Each exercise corresponds to a different Machine Learning method.
 | [Kitsos Orfanopoulos](https://github.com/kitsorfan)               | <a href = "mailto:kitsorfan@protonmail.com" target="_blank"><img alt="protonmail" src = "https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" ></a>| [link](https://www.kaggle.com/christosorfanopoulos) |
 
 
-Project's assignement and report are written in greek.
+Project's assignment and report are written in greek.
 
 
 
