@@ -1,6 +1,6 @@
 #  <b>Neural Networks</b>
 
-Programming exercises in Python, semester project for Neural Networks and Neural Networks and Intelligent Systems course at ECE⚡, NTUA🎓, academic year 2021-2022
+Programming exercises in Python, semester project for Neural Networks and Intelligent Systems course at ECE⚡, NTUA🎓, academic year 2021-2022
 
 <img alt="Python" src = "https://img.shields.io/badge/Python-1136AA?style=for-the-badge&logo=python&logoColor=white" height="28">  <img alt="Google Colab" src = "https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white" height="28">  <img alt="Kaggle" src = "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="28">
 
